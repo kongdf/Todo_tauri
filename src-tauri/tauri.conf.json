@@ -1,12 +1,12 @@
 {
   "productName": "todo",
   "version": "0.0.0",
-  "identifier": "com.tauri.dev",
+  "identifier": "notcom.nottauri.notdev",
   "build": {
     "beforeDevCommand": "yarn dev",
     "devUrl": "http://localhost:1420",
     "beforeBuildCommand": "yarn build",
-    "frontendDist": "../dist",
+    "frontendDist": "../dist"
    
   },
   "app": {
